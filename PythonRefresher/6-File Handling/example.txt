@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Hello World!!!
 this is a new line.
 Append operation taking place!
 First line 
 Second line 
 Third line
+=======
+Hello world
+This is a new line 
+>>>>>>> a9c140fb (Finished pthon prereq section 3)
