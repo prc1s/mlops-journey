@@ -1,19 +1,26 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6b0c7e53 (Finished pthon prereq section 3)
 Hello World!!!
 this is a new line.
 Append operation taking place!
 First line 
 Second line 
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> a9c140fb (Finished pthon prereq section 3)
+=======
+>>>>>>> 6b0c7e53 (Finished pthon prereq section 3)
 Hello World!
 this is a new line.Append operation taking place!Append operation taking place!
 Append operation taking place!
 First line 
 Seocnd line 
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> a9c140fb (Finished pthon prereq section 3)
 =======
@@ -24,5 +31,7 @@ First line
 Second line 
 >>>>>>> 39af6b07 (Finished Class & Objects)
 =======
+=======
+>>>>>>> 6b0c7e53 (Finished pthon prereq section 3)
 >>>>>>> a9c140fb (Finished pthon prereq section 3)
 Third line

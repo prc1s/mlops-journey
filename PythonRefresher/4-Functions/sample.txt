@@ -1,2 +1,10 @@
 Hello World How are you
+<<<<<<< HEAD
 My name is Krish KRish
+=======
+<<<<<<< HEAD
+My name is Mohammed Aljowaie
+=======
+My name is Krish KRish
+>>>>>>> a9c140fb (Finished pthon prereq section 3)
+>>>>>>> 6b0c7e53 (Finished pthon prereq section 3)
