@@ -1,16 +1,20 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello World!!!
 this is a new line.
 Append operation taking place!
 First line 
 Second line 
 =======
+=======
+>>>>>>> a9c140fb (Finished pthon prereq section 3)
 Hello World!
 this is a new line.Append operation taking place!Append operation taking place!
 Append operation taking place!
 First line 
 Seocnd line 
+<<<<<<< HEAD
 >>>>>>> a9c140fb (Finished pthon prereq section 3)
 =======
 Hello World!!!
@@ -19,4 +23,6 @@ Append operation taking place!
 First line 
 Second line 
 >>>>>>> 39af6b07 (Finished Class & Objects)
+=======
+>>>>>>> a9c140fb (Finished pthon prereq section 3)
 Third line

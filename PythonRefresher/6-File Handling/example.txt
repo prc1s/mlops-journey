@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 39af6b07 (Finished Class & Objects)
 Hello World!!!
@@ -15,3 +16,7 @@ This is a new line
 >>>>>>> a9c140fb (Finished pthon prereq section 3)
 =======
 >>>>>>> 39af6b07 (Finished Class & Objects)
+=======
+Hello world
+This is a new line 
+>>>>>>> a9c140fb (Finished pthon prereq section 3)

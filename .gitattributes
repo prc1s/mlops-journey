@@ -173,6 +173,7 @@
 /PythonRefresher/venv/share/locale/ka/LC_MESSAGES/mit-krb5.mo filter=lfs diff=lfs merge=lfs -text
 /PythonRefresher/venv/share/zoneinfo/tzdata.zi filter=lfs diff=lfs merge=lfs -text
 /PythonRefresher/venv/ssl/cacert.pem filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 /PythonRefresher/venv/lib/python3.12/site-packages/numpy-2.3.1.dist-info/RECORD filter=lfs diff=lfs merge=lfs -text
 /PythonRefresher/venv/lib/python3.12/site-packages/numpy/__init__.pyi filter=lfs diff=lfs merge=lfs -text
 /PythonRefresher/venv/lib/python3.12/site-packages/numpy/_core/_add_newdocs.py filter=lfs diff=lfs merge=lfs -text
@@ -1427,3 +1428,5 @@
 /MLFLOW/venv/share/py4j/py4j0.10.9.9.jar filter=lfs diff=lfs merge=lfs -text
 /MLFLOW/venv/share/zoneinfo/tzdata.zi filter=lfs diff=lfs merge=lfs -text
 /MLFLOW/venv/ssl/cacert.pem filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> a9c140fb (Finished pthon prereq section 3)

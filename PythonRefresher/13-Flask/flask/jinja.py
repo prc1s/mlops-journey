@@ -56,7 +56,11 @@ def successres(score):
     return render_template('result1.html',results=exp)
 
 ## if confition
+<<<<<<< HEAD
 @app.route('/sucessif/failif/oriffailedifsucessiffailedelse<int:score>')
+=======
+@app.route('/sucessif/<int:score>')
+>>>>>>> a9c140fb (Finished pthon prereq section 3)
 def successif(score):
 
     return render_template('result.html',results=score)
