@@ -1,2 +1,2 @@
 # mlops-journey
-Here will be my learning journey to mlops
+Here will be my journey to learning mlops

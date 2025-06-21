@@ -1,0 +1,51 @@
+{
+  "build": "he5c5206_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [
+    "clang 17.0.6",
+    "llvm-openmp 17.0.6",
+    "llvm 17.0.6",
+    "llvm-tools 17.0.6"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/libcxx-17.0.6-he5c5206_3",
+  "files": [
+    "lib/libc++.1.0.dylib",
+    "lib/libc++.1.dylib"
+  ],
+  "fn": "libcxx-17.0.6-he5c5206_3.conda",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/libcxx-17.0.6-he5c5206_3",
+    "type": 1
+  },
+  "md5": "7d5ef414354d227dea8bce381d5a0a4b",
+  "name": "libcxx",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/libcxx-17.0.6-he5c5206_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libc++.1.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "926cd38b5e73549a0dfa7b440086a403f9b5e0deb6ee9009d4fb50fd931d24ea",
+        "sha256_in_prefix": "926cd38b5e73549a0dfa7b440086a403f9b5e0deb6ee9009d4fb50fd931d24ea",
+        "size_in_bytes": 1074224
+      },
+      {
+        "_path": "lib/libc++.1.dylib",
+        "path_type": "softlink",
+        "sha256": "926cd38b5e73549a0dfa7b440086a403f9b5e0deb6ee9009d4fb50fd931d24ea",
+        "size_in_bytes": 1074224
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "629e812849fbe79e9c1fac6a272328f7d88bb92616954f39ec537f4988c5a2bb",
+  "size": 315979,
+  "subdir": "osx-arm64",
+  "timestamp": 1750279122000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/libcxx-17.0.6-he5c5206_3.conda",
+  "version": "17.0.6"
+}

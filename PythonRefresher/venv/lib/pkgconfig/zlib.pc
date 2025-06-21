@@ -1,0 +1,13 @@
+prefix=/Users/hh/MLops/mlops-journey/PythonRefresher/venv
+exec_prefix=/Users/hh/MLops/mlops-journey/PythonRefresher/venv
+libdir=/Users/hh/MLops/mlops-journey/PythonRefresher/venv/lib
+sharedlibdir=/Users/hh/MLops/mlops-journey/PythonRefresher/venv/lib
+includedir=/Users/hh/MLops/mlops-journey/PythonRefresher/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
