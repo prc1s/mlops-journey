@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/579a99d559b14a6594c2bab71c9ea56b/artifacts
+end_time: 1727548275841
+entry_point_name: ''
+experiment_id: '929139454095764868'
+lifecycle_stage: active
+run_id: 579a99d559b14a6594c2bab71c9ea56b
+run_name: selective-midge-170
+run_uuid: 579a99d559b14a6594c2bab71c9ea56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727548267866
+status: 3
+tags: []
+user_id: win10

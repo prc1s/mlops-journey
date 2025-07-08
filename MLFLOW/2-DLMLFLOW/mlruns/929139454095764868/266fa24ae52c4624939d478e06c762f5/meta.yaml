@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/266fa24ae52c4624939d478e06c762f5/artifacts
+end_time: 1727548290503
+entry_point_name: ''
+experiment_id: '929139454095764868'
+lifecycle_stage: active
+run_id: 266fa24ae52c4624939d478e06c762f5
+run_name: whimsical-foal-234
+run_uuid: 266fa24ae52c4624939d478e06c762f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727548283125
+status: 3
+tags: []
+user_id: win10

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/186174863104388394/04d6f73b1cea418e964fc71f7deae66a/artifacts
+end_time: 1751963121029
+entry_point_name: ''
+experiment_id: '186174863104388394'
+lifecycle_stage: active
+run_id: 04d6f73b1cea418e964fc71f7deae66a
+run_name: efficient-gnat-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751963119118
+status: 3
+tags: []
+user_id: hh

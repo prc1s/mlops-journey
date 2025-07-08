@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727548483047
+current_stage: None
+description: ''
+last_updated_timestamp: 1727548483047
+name: finalmodel
+run_id: 1d304b32815e4bd1a062d17158d3ce60
+run_link: ''
+source: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/1d304b32815e4bd1a062d17158d3ce60/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/1d304b32815e4bd1a062d17158d3ce60/artifacts/model
+user_id: null
+version: 1
