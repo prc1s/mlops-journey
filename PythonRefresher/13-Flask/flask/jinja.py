@@ -56,7 +56,7 @@ def successres(score):
     return render_template('result1.html',results=exp)
 
 ## if confition
-@app.route('/sucessif/<int:score>')
+@app.route('/sucessif/failif/oriffailedifsucessiffailedelse<int:score>')
 def successif(score):
 
     return render_template('result.html',results=score)
