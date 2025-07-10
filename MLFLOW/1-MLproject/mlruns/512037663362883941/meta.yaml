@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/512037663362883941
+creation_time: 1752133009435
+experiment_id: '512037663362883941'
+last_update_time: 1752133009435
+lifecycle_stage: active
+name: House Prices RandomForest Model
