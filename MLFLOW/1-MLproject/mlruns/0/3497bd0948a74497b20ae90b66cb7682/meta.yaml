@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3497bd0948a74497b20ae90b66cb7682/artifacts
+deleted_time: 1752089712662
+end_time: 1752087784734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3497bd0948a74497b20ae90b66cb7682
+run_name: resilient-grouse-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752087784728
+status: 4
+tags: []
+user_id: hh

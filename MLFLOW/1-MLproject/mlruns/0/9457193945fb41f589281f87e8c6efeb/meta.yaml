@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9457193945fb41f589281f87e8c6efeb/artifacts
+deleted_time: 1752089712655
+end_time: 1752088850710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9457193945fb41f589281f87e8c6efeb
+run_name: carefree-flea-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752088837684
+status: 4
+tags: []
+user_id: hh

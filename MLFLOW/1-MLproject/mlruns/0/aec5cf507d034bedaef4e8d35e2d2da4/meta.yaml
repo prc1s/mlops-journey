@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aec5cf507d034bedaef4e8d35e2d2da4/artifacts
+deleted_time: 1752089712793
+end_time: 1752087641008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aec5cf507d034bedaef4e8d35e2d2da4
+run_name: zealous-elk-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752087640994
+status: 4
+tags: []
+user_id: hh

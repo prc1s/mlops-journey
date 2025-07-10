@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/edd279fd6a9b4e069a94002fd4d92467/artifacts
+deleted_time: 1752089712662
+end_time: 1752088068191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: edd279fd6a9b4e069a94002fd4d92467
+run_name: nervous-mule-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752087978282
+status: 4
+tags: []
+user_id: hh

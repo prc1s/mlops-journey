@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3284d3a375574fb089f2fcee7821fe91/artifacts
+deleted_time: 1752089712655
+end_time: 1752088861386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3284d3a375574fb089f2fcee7821fe91
+run_name: invincible-ape-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752088856382
+status: 4
+tags: []
+user_id: hh

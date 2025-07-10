@@ -1432,7 +1432,12 @@
 /MLFLOW/venv/share/py4j/py4j0.10.9.9.jar filter=lfs diff=lfs merge=lfs -text
 /MLFLOW/venv/share/zoneinfo/tzdata.zi filter=lfs diff=lfs merge=lfs -text
 /MLFLOW/venv/ssl/cacert.pem filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 =======
 >>>>>>> a9c140fb (Finished pthon prereq section 3)
 =======
 >>>>>>> 6963f7a1 (Finished section 10)
+=======
+/MLFLOW/1-MLproject/mlartifacts/0/models/m-829eff2fd7df481e8c687176861f07e7/artifacts/model.pkl filter=lfs diff=lfs merge=lfs -text
+/MLFLOW/1-MLproject/mlartifacts/0/models/m-f0714955f6294ebda5691bb9362996bd/artifacts/model.pkl filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 7e0c9383 (house price prediction micro-project)
