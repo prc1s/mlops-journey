@@ -2,12 +2,18 @@
 Here will be my journey to learning mlops
 <<<<<<< HEAD
 
-PythonRefresher: -Complete
+PythonRefresher: -Completed
         Before going ahead into MLOps Journey I need to have a quick Refresher to Python
 
 Gitops: -Skipped
-        Personaly I found no use of getting into Gitops Because I already have enough knowledge about it and I dont need a refresher because I recently used these skills
+        Personaly I found no use of getting into Gitops Because I already have enough knowledge about it, But it is definately Important
 
-MLFlow: -Ongoing
+MLFlow: -Completed
+        Very very useful tool Learned a lot from it.
+
+DVC: -Completed 
+        Again Very useful Data Tracking tool 
+
+DagsHub: -Complete
 =======
 >>>>>>> a9c140fb (Finished pthon prereq section 3)
