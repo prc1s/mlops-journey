@@ -39,7 +39,7 @@ def train(data_path, model_path, random_state, n_estimators, max_depth):
 
         #Hyperparameters
         param_grid = {
-            'n_estimators' : [90,100,110,120,130,140],
+            'n_estimators' : [300,100,110,120,130,140],
             'max_depth' : [5, 10, None],
             'min_samples_split' : [2,5],
             'min_samples_leaf' : [1,5]
