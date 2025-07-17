@@ -8,3 +8,4 @@ hyperopt
 dvc 
 dagshub
 dvc-s3
+python-dotenv
