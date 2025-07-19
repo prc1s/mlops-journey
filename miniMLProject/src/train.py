@@ -68,6 +68,8 @@ def train(data_path, model_path, random_state, n_estimators, max_depth):
 
         import tempfile
 
+
+        ## in here saving the Models Artifact i Used ChatGBT for help because the method that i knew and the one that was at their documentation did not work for me 
         # 1) Save the trained model to a local temp directory (include the signature)
         tmpdir = tempfile.mkdtemp()
         mlflow.sklearn.save_model(sk_model=best_model, path=tmpdir, signature=signature)
@@ -75,7 +77,7 @@ def train(data_path, model_path, random_state, n_estimators, max_depth):
         # 2) Log that entire directory as an artifact under the “model/” path
         mlflow.log_artifacts(tmpdir, artifact_path="model")
 
-        print("✅ Model saved to MLflow artifacts under 'model/'")
+        print("Model saved to MLflow artifacts under 'model/'")
 
 
         #create directory tp save model
