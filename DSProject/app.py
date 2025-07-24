@@ -109,7 +109,7 @@ if __name__ == "__main__":
     mlflow.set_experiment("Wine Quality --BEST MODELS")
     with mlflow.start_run():
         space = {
-        "alpha":    hp.loguniform("alpha",   np.log(1e-6), np.log(1e-3)),
+        "alpha":    hp.loguniform("alpha",   np.log(1e-7), np.log(1e-3)),
         "l1_ratio": hp.uniform("l1_ratio",    0.0, 1.0)
         }
         
