@@ -2,7 +2,7 @@
 Here will be my journey to learning mlops
 <<<<<<< HEAD
 
-PythonRefresher: -Completed
+Python Refresher: -Completed
         Before going ahead into MLOps Journey I need to have a quick Refresher to Python.
 
 Gitops: -Skipped
@@ -19,7 +19,11 @@ DagsHub: -Complete
 miniMLProject & DSProject: -Completed 
         Used all the tools i learned including hosting mlflow on AWS rather than locally
 
-Docker: -Ongoing
+Docker: -Completed
         Refresher for docker because it has been a while for me.
+
+Airflow-Astro: -Completed
+
+CI/CD (GitHub Actions): -Completed
 =======
 >>>>>>> a9c140fb (Finished pthon prereq section 3)
