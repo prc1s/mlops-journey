@@ -1,3 +1,6 @@
 [submodule "githubDockerWrokflow"]
 	path = githubDockerWrokflow
 	url = https://github.com/prc1s/githubDockerWrokflow
+[submodule "dataScienceProject"]
+	path = dataScienceProject
+	url = https://github.com/prc1s/dataScienceProject.git
